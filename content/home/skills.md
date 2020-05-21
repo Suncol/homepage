@@ -24,7 +24,7 @@ subtitle = ""
   icon = "cuttlefish"
   icon_pack = "fab"
   name = "C"
-  description = "60%"
+  description = "60%" 
 
 [[feature]]
   icon = "linux"
@@ -39,7 +39,7 @@ subtitle = ""
   description = "30%"
 
 [[feature]]
-  icon = "globe-europe"
+  icon = "book"
   icon_pack = "fab"
   name = "Deutsch"
   description = "20%"
