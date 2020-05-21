@@ -90,7 +90,7 @@ address = {street = "No.96, JinZhai Road Baohe District", city = "Hefei", region
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "31.8220", longitude = "117.2806"}
+coordinates = {latitude = "31.84252", longitude = "117.26547"}
 
 # Directions for visitors to locate you.
 #directions = "Enter Building 1 and take the stairs to Office 200 on Floor 2"
