@@ -39,7 +39,7 @@ subtitle = ""
   description = "30%"
 
 [[feature]]
-  icon = "book"
+  icon = "dochub"
   icon_pack = "fab"
   name = "Deutsch"
   description = "20%"
