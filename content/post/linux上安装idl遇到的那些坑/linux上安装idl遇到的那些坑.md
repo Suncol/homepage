@@ -1,25 +1,9 @@
 ---
-author: "Cong Sun"
-author_link: "http://home.ustc.edu.cn/~suncong/"
 title: "Linux上安装idl遇到的那些坑"
-date: 2020-05-21T12:49:59+08:00
-lastmod: 2020-05-21T12:49:59+08:00
-draft: false
-description: ""
-show_in_homepage: false
-description_as_summary: false
-license: "MIT license"
-
-tags: ["科学计算环境"]
+date: 2020-05-21
 categories: ["技术"]
-
-featured_image: ""
-featured_image_preview: ""
-
-comment: true
-toc: false
-auto_collapse_toc: true
-math: false
+math: true
+diagram: true
 ---
 
 # 写在前面
