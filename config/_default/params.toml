@@ -84,9 +84,9 @@ edit_page = {repo_url = "https://github.com/gcushen/hugo-academic", content_dir 
 email = "suncong@mail.ustc.edu.cn"
 phone = ""
 
-# Address
-# For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "No.96, JinZhai Road Baohe District", city = "Hefei", region = "Anhui", postcode = "230026", country = "P.R.China.", country_code = "	zh-cn"}
+# # Address
+# # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
+# address = {street = "No.96, JinZhai Road Baohe District", city = "Hefei", region = "Anhui", postcode = "230026", country = "P.R.China.", country_code = "	zh-cn"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
@@ -111,6 +111,11 @@ contact_links = [
   #{icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
   {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://t.me/gabriel_sun"},
   ]
+
+# Address
+# For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
+address = {street = "No.96, JinZhai Road Baohe District", city = "Hefei", region = "Anhui", postcode = "230026", country = "P.R.China.", country_code = "	zh-cn"}
+
 
 ############################
 ## Social
