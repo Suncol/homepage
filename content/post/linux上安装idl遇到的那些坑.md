@@ -21,6 +21,8 @@ math: false
 # 写在前面
 最近作者所在的实验室服务器遇到了一些配置问题。一开始，是我的老师和我讲服务器的idl无法调出idlde的图形化界面，在后来的测试中我发现确实无法正常调出图形界面，而问题的原因则十分有趣。是我之前在安装idl的时候为了图方便(其实还是现在idl的破解资源比较难找)安装了idl7.1的32位版，导致实验室的64位机器运行异常。在尝试安装linux的32位库补救失败后，我打算安装正常的64位软件，no matter it cost。
 
+<!--more-->
+
 # software & crack file
 在万能的google帮助下我获得了idl83的安装包和配置文件，这里分享下：
 链接: https://pan.baidu.com/s/1NFaD5W8z5jL1tZVYpf3T1Q 密码: e6xq
