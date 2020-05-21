@@ -19,18 +19,32 @@ subtitle = ""
   icon_pack = "fab"
   name = "python"
   description = "50%"
+
+[[feature]]
+  icon = "cuttlefish"
+  icon_pack = "fab"
+  name = "C"
+  description = "60%"
+
+[[feature]]
+  icon = "linux"
+  icon_pack = "fab"
+  name = "linux"
+  description = "70%"
   
 [[feature]]
-  icon = "chart-line"
-  icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
-  
+  icon = "git-square"
+  icon_pack = "fab"
+  name = "git"
+  description = "30%"
+
 [[feature]]
-  icon = "camera-retro"
-  icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  icon = "globe-europe"
+  icon_pack = "fab"
+  name = "Deutsch"
+  description = "20%"
+  
+
 
 # Uncomment to use emoji icons.
 # [[feature]]
